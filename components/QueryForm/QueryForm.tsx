@@ -25,7 +25,7 @@ export default function QueryForm() {
 
             <textarea
                 placeholder="Describe what you're thinking of..."
-                className="text-lg flex min-h-[60px] w-2/3 h-1/3 rounded-md border border-zinc-700 bg-transparent px-3 py-2 shadow-sm focus:border-zinc-600 outline-none hover:border-zinc-600 text-slate-100"
+                className="text-lg flex min-h-[60px] w-2/3 h-1/4 md:h-1/3 rounded-md border border-zinc-700 bg-transparent px-3 py-2 shadow-sm focus:border-zinc-600 outline-none hover:border-zinc-600 text-slate-100"
                 onChange={(e) => setQuery(e.target.value)}
             />
             <FancyButton query={query} />
