@@ -48,6 +48,7 @@ export default function FancyButton({ query }: { query: string }) {
         setResults(data.possible_words);
     };
 
+    //Thanks @jh3yy
     return (
         <div>
             <Results

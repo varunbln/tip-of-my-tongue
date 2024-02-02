@@ -12,7 +12,7 @@ export default function QueryForm() {
                 <p className="text-slate-100 text-balance text-center">
                     Ever found yourself in that frustrating moment where the
                     perfect word, the name of that movie, or a song are right on
-                    the tip of your tongue, but you just can&apos;t grasp them?
+                    the tip of your tongue, but you just can&apos;t grasp it?
                     Let&apos;s find out what&apos;s on the tip of your tongue,
                     together.
                 </p>
