@@ -1,4 +1,4 @@
-![Demo of the website](demo.gif)
+![Demo of the website](https://i.imgur.com/9SIXABi.gif)
 
 # Tip of My Tongue
 
