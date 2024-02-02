@@ -10,7 +10,7 @@ https://tipofmytongue.varunbalani.com
 ## Tech Stack
 
 -   Next.js with App Router
--   Shadcn UI
+-   ShadcnUI
 -   Tailwind
 -   GPT-4 for suggestion generation
 

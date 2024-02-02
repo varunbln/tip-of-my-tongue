@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     title: "Tip of My Tongue",
     description: `Website that helps you to identify what word, song, movie or literally anything else you're trying to think of. Ever found yourself in that frustrating moment where the
                     perfect word, the name of that movie, or a song are right on
-                    the tip of your tongue, but you just can't grasp them? Let's
+                    the tip of your tongue, but you just can't grasp it? Let's
                     find out what's on the tip of your tongue, together.`,
 };
 
