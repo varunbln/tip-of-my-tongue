@@ -12,13 +12,14 @@ export default function QueryForm() {
                 <p className="text-slate-100 text-balance text-center">
                     Ever found yourself in that frustrating moment where the
                     perfect word, the name of that movie, or a song are right on
-                    the tip of your tongue, but you just can't grasp them? Let's
-                    find out what's on the tip of your tongue, together.
+                    the tip of your tongue, but you just can&apos;t grasp them?
+                    Let&apos;s find out what&apos;s on the tip of your tongue,
+                    together.
                 </p>
                 <br />
                 <p className="text-slate-100 text-balance text-center">
-                    Simply describe what you're trying to think of in the text
-                    box below, and watch the magic unfold.
+                    Simply describe what you&apos;re trying to think of in the
+                    text box below, and watch the magic unfold.
                 </p>
             </div>
 
