@@ -7,7 +7,7 @@ export default function QueryForm() {
     const [query, setQuery] = useState("");
 
     return (
-        <div className="flex flex-col justify-evenly items-center h-full w-full md:mx-[10%] p-4 md:p-0">
+        <div className="flex flex-col justify-evenly items-center h-[90%] md:h-full w-full md:mx-[10%] p-4 md:p-0">
             <div className="flex flex-col justify-between items-center w-full">
                 <p className="text-slate-100 text-balance text-center">
                     Ever found yourself in that frustrating moment where the
