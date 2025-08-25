@@ -12,7 +12,7 @@ export const GET = async (req: NextRequest) => {
         return Response.json({ error: "No description provided." });
 
     const response = await openai.chat.completions.create({
-        model: "gpt-5-mini",
+        model: "gpt-4o",
         messages: [
             {
                 role: "system",
